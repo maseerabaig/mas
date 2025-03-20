@@ -16,23 +16,28 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://uploads-ssl.webflow.com/60bdbc7b0c4f5aa1568dc8cc/632202369aa816b4ad39c3f2_Jupyter_logo.svg-p-1080.png" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
+<!--   <img src="https://uploads-ssl.webflow.com/60bdbc7b0c4f5aa1568dc8cc/632202369aa816b4ad39c3f2_Jupyter_logo.svg-p-1080.png" height="30" alt="jupyter logo"  />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif" height="30" alt="react logo"  />
+  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="30" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://surfingthecode.com/img/python.gif" height="30" alt="python logo"  />
+  <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
+  
+  <img src="https://www.svgrepo.com/show/452092/react.svg" height="30" alt="react logo"  />
+  <img width="12" />
+<!--   <img src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif" height="30" alt="react logo"  />
+  <img width="12" /> -->
+<!--   <img src="https://surfingthecode.com/img/python.gif" height="30" alt="python logo"  />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-   <img src="https://cdn.dribbble.com/users/22679/screenshots/2020456/untitled-3e.gif" height="30" alt="power bi"  />
-  <img width="12" />
+<!--    <img src="https://cdn.dribbble.com/users/22679/screenshots/2020456/untitled-3e.gif" height="30" alt="power bi"  />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  /> -->
 </div>
 
 ###
@@ -43,8 +48,8 @@
   </a>
 
 
-  <a href="https://www.novypro.com/profile_projects/amanshaikh" target="_blank">
-    <img src="https://f2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io/f1652315708983x844618127003955700/novyPro%20SVG%20full%20Logo%20White%20Text.svg" height="80" width = "100" alt="linkedin logo"  />
+  <a href="https://app.netlify.com/teams/maseerabaig/sites" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Netlify-Dark.svg" height="80" width = "100" alt="netlify logo"  />
   </a>
 </div>
 
