@@ -1,12 +1,12 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
-<h3 align="center">Hi 👋! My name is Aman Shaikh, and I'm a Full Stack Developer and Data Analyst from India</h3>
+<h3 align="center">Hi 👋! My name is Maseera Baig, and I'm a Full Stack Developer from Pune, India</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aman7756068021&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aman7756068021&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=maseerabaig&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maseerabaig&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -38,10 +38,9 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aman-shaikh-721b38226/" target="_blank">
+  <a href="https://www.linkedin.com/in/maseerabaig/" target="_blank">
     <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" height="80" width = "100" alt="linkedin logo"  />
   </a>
-
 
 
   <a href="https://www.novypro.com/profile_projects/amanshaikh" target="_blank">
