@@ -21,7 +21,7 @@
 ## 💫 About Me:
 <img align="right" alt="coding" height="200px" width="350px" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f">
 
-🙋‍♂️ All about me is at **[My Website](https://dishagupta-portfolio.netlify.app/)**<br><br>🌱 I’m currently learning **Node.js**<br><br> 📫 How to reach me **maseerabaig13@gmail.com**<br><br>📄 Know about my experience [Resume](https://drive.google.com/file/d/142w1fO95ZbdCjoYmAR7Jb1waKm3n411Y/view?usp=sharing)
+🙋‍♂️ All about me is at **[My Website](https://dishagupta-portfolio.netlify.app/)**<br><br>🌱 I’m currently learning **Node.js**<br><br> 📫 How to reach me **maseerabaig13@gmail.com**<br><br>📄 Know about my experience [Resume](https://drive.google.com/drive/folders/1IrE82nzeQ3ehLvtKUfUKuIxBD8tMX6Cc?usp=sharing)
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/maseerabaig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maseera baig" height="30" width="40" /></a>
